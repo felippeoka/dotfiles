@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = felippe.oka@gmail.com
+	name = Felippe Oka
